@@ -6,7 +6,7 @@ Boost sales productivity, improve win rates, grow revenue with the Odoo
 
 Manage your sales funnel with no effort. Attract leads, follow-up on phone
 calls and meetings. Analyse the quality of your leads to make informed
-decisions and save time by integrating emails directly into the application.
+decisions and save time by integrating names directly into the application.
 
 Your Sales Funnel, The Way You Like It
 --------------------------------------
